@@ -1,0 +1,112 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "ad66b0593f2e24fc15fc",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\cuney\\Desktop\\firstFrontityProject\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "my-frontity-project": [
+      "my-frontity-project.module.js",
+      "my-frontity-project.c88fdb993275e7dbb277.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "c88fdb993275e7dbb277.hot-update.json",
+      "size": 61,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 48149,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "my-frontity-project.c88fdb993275e7dbb277.hot-update.js",
+      "size": 12309,
+      "chunks": [
+        "my-frontity-project"
+      ],
+      "chunkNames": [
+        "my-frontity-project"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "my-frontity-project.module.js",
+      "size": 5269076,
+      "chunks": [
+        "my-frontity-project"
+      ],
+      "chunkNames": [
+        "my-frontity-project"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "my-frontity-project": {
+      "chunks": [
+        "my-frontity-project"
+      ],
+      "assets": [
+        "my-frontity-project.module.js",
+        "my-frontity-project.c88fdb993275e7dbb277.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "my-frontity-project": {
+      "chunks": [
+        "my-frontity-project"
+      ],
+      "assets": [
+        "my-frontity-project.module.js",
+        "my-frontity-project.c88fdb993275e7dbb277.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}

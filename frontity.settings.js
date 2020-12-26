@@ -2,8 +2,8 @@ const settings = {
   "name": "my-frontity-project",
   "state": {
     "frontity": {
-      "url": "https://front.trendpatik.com",
-      "title": "Kaya's World of Programmingtrue",
+      "url": "http://front.trendpatik.com",
+      "title": "Kaya's World of Programming",
       "description": false
     }
   },
@@ -16,10 +16,6 @@ const settings = {
             [
               "Home",
               "/"
-            ],
-            [
-              "Anasayfa",
-              "/home/"
             ],
             [
               "About Me",
